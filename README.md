@@ -7,4 +7,4 @@ In this project I present to you the phone dataset analysis. I use jupiter noteb
      The project include some steps like:
                  1) data cleaning and check the blank values, transform the text date coloumn into date coloumn .
                  2)take out the insights from it make group by functuion to see the relation between the columns.
-                 3) use some charts and graps kto visulize it .. which is the core thing about this project
+                 3) use some charts and graps to visulize it .. which is the core thing about this project.
